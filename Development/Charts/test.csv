@@ -1,17 +1,5 @@
-group,variable,value
-Vans,Name Completion,30
-Vans,Email Completion,95
-Vans,Phone Completion,22
-Vans,Address Completion,14
-Skechers,Name Completion,37
-Skechers,Email Completion,50
-Skechers,Phone Completion,81
-Skechers,Address Completion,79
-Plat,Name Completion,37
-Plat,Email Completion,50
-Plat,Phone Completion,81
-Plat,Address Completion,79
-TAF,Name Completion,37
-TAF,Email Completion,50
-TAF,Phone Completion,81
-TAF,Address Completion,79
+division,all_rows,name_completion,email_completion,phone_completion,address_completion
+vans,"909,045",94.89%,99.84%,39.93%,36.86%
+skechers,"3,149,727",99.62%,99.77%,42.33%,20.30%
+platypus,"5,162,133",99.28%,99.80%,43.87%,24.26%
+TAF,"2,425,270",99.24%,77.85%,86.80%,15.92%
